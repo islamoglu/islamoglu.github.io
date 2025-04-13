@@ -1,0 +1,3 @@
+[submodule "arcade-terminal"]
+	path = arcade-terminal
+	url = https://github.com/islamoglu/arcade-terminal
